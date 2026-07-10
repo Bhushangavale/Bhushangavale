@@ -14,12 +14,6 @@ Computer Engineering student passionate about Full Stack Development, Blockchain
 
 ---
 
-# Hi, I'm Ritik Jagtap
-
-Computer Engineering student passionate about creating web apps and turning simple ideas into useful digital tools.
-
----
-
 ## Tech Stack
 
 **Languages** - 
