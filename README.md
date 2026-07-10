@@ -85,7 +85,7 @@ Java • Android Studio • Firebase • XML
 ---
 ## Contact
 
-* Email: [jagtapritik8@gmail.com](bhushangavale2089@gmail.com)
+* Email: [bhushangavale2089@gmail.com](bhushangavale2089@gmail.com)
 * LinkedIn: https://linkedin.com/in/bhushan-gavale
 * GitHub: https://github.com/Bhushangavale
 
