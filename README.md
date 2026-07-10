@@ -14,25 +14,31 @@ Computer Engineering student passionate about Full Stack Development, Blockchain
 
 ---
 
+# Hi, I'm Ritik Jagtap
+
+Computer Engineering student passionate about creating web apps and turning simple ideas into useful digital tools.
+
+---
+
 ## Tech Stack
 
-### Programming Languages
-. Java . JavaScript . C
+**Languages** - 
+C · Java · JavaScript
 
-### Frontend
-. HTML5 . CSS3 . React.js
+**Frontend** - 
+HTML5 · CSS3 · React.js · Tailwind / Bootstrap
 
-### Backend
-. Spring Boot . Hibernate . RESTful APIs
+**Backend** - 
+Spring Boot · Hibernate · RESTful APIs
 
-### Database
-. MySQL . Firebase
+**Databases** - 
+MySQL · Firebase
 
-### Tools & Technologies
-. Git . GitHub . Postman
+**Developer Tools** - 
+Git · VS Code · Postman
 
-### Core Concepts
-. Data Structures & Algorithms . Object-Oriented Programming . DBMS . MVC Architecture
+**Core Concepts** - 
+Data Structures & Algorithms · Object-Oriented Programming · DBMS · MVC Architecture
 
 ---
 
@@ -83,15 +89,11 @@ Java • Android Studio • Firebase • XML
 * Winner of Inter-College Hackathon
 
 ---
+## Contact
 
-## Connect With Me
+* Email: [jagtapritik8@gmail.com](bhushangavale2089@gmail.com)
+* LinkedIn: https://linkedin.com/in/bhushan-gavale
+* GitHub: https://github.com/Bhushangavale
 
-Email: **bhushangavale2089@gmail.com**
-
-LinkedIn: https://www.linkedin.com/in/bhushan-gavale/
-
-GitHub: https://github.com/Bhushangavale
-
----
 
 Thanks for visiting my profile!
