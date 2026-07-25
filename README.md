@@ -1,13 +1,13 @@
 # Hi, I'm Bhushan Arun Gavale
 
-Computer Engineering student passionate about Full Stack Development, Blockchain, and building scalable software solutions. I enjoy developing real-world applications that solve practical problems while continuously learning modern technologies.
+Computer Engineering student passionate about Full Stack Development and building scalable software solutions. I enjoy developing real-world applications that solve practical problems while continuously learning modern technologies.
 
 ---
 
 ## About Me
 
 - B.E. Computer Engineering (CGPA: 8.00)
-- Currently exploring Blockchain, Spring Boot, and React
+- Currently exploring Spring Boot, and React 
 - Interested in Full Stack Development & Software Engineering
 - Hackathon Finalist (Top 40 among 500+ participants)
 - Maharashtra, India
@@ -17,13 +17,13 @@ Computer Engineering student passionate about Full Stack Development, Blockchain
 ## Tech Stack
 
 **Languages** - 
-C · Java · JavaScript
+Java · C · JavaScript
 
 **Frontend** - 
 HTML5 · CSS3 · React.js · Tailwind / Bootstrap
 
 **Backend** - 
-Spring Boot · Hibernate · RESTful APIs
+Spring Boot · Hibernate/Jpa · RESTful APIs
 
 **Databases** - 
 MySQL · Firebase
@@ -32,7 +32,7 @@ MySQL · Firebase
 Git · VS Code · Postman
 
 **Core Concepts** - 
-Data Structures & Algorithms · Object-Oriented Programming · DBMS · MVC Architecture
+Data Structures & Algorithms · Object-Oriented Programming · RDBMS · MVC Architecture
 
 ---
 
@@ -75,6 +75,23 @@ Android application that digitizes the bus pass application and renewal process 
 Java • Android Studio • Firebase • XML
 
 ---
+
+## 2. Digital GramPanchayat App
+
+Android application that digitizes the grampanchayat application process for rular people reduce pepar work.
+
+### Features
+* Citizen Registration & Secure Login
+* Online Service Request Module
+* Notice & Announcement Board
+* User-friendly Android Interface
+* Firebase Authentication
+* Firebase Realtime Database Integration
+
+**Tech Stack**
+
+Java • Android Studio • Firebase • XML
+
 
 ## Achievements
 
