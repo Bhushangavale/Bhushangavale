@@ -76,7 +76,7 @@ Java • Android Studio • Firebase • XML
 
 ---
 
-## 2. Digital GramPanchayat App
+## 3. Digital GramPanchayat App
 
 Android application that digitizes the grampanchayat application process for rular people reduce pepar work.
 
